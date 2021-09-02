@@ -4,13 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. Which is A financial planning app that allows you to record what and how much you spent.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/66659379/131889048-dbbf8e44-2b27-473c-a7bd-3ff73b01fc49.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
